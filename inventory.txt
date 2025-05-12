@@ -1,0 +1,3 @@
+
+vm2_server ansible_host=20.46.235.198 ansible_user=ansible_01 ansible_ssh_pass=aswin@200412
+
